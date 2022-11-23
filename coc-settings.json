@@ -1,0 +1,12 @@
+{
+  "snippets.extends": {
+    "javascriptreact": ["javascript"],
+    "typescript": ["javascript"],
+    "typescriptreact": "[javascript]"
+  },
+  "prettier.tabWidth": 2,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  }
+}
